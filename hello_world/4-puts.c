@@ -1,3 +1,8 @@
+/*Written by Tahir Ibrahimov (10736@holbertonstudents.com)
+ */
+
+
+
 #include <stdio.h>
 int main(void)
 {
