@@ -1,4 +1,9 @@
-/*Written by Tahir Ibrahimov (10736@holbertonstudents.com)
+/*Holberton School
+ * Written by Tahir Ibrahimov (10736@holbertonstudents.com)
+ *[[]]
+ *[[]]
+ *\  /
+ * \/
  */
 
 
