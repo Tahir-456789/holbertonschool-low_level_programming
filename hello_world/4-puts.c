@@ -1,10 +1,12 @@
-/**
+/**
  * File: main.c
  * Author: Tahir Ibrahimov
  * Email: 10736@holbertonstudents.com
  * Description: This program prints a quote about programming.
  */
+
 #include <stdio.h>
+
 /**
  * main - Prints a string about programming.
  * 
@@ -15,7 +17,7 @@
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+    puts("\"Programming is like building a multilingual puzzle");
 
-return (0);
+    return (0);
 }
