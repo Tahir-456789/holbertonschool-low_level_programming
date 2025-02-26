@@ -1,4 +1,5 @@
-/*Holberton School
+/**
+ * Holberton School
  * Written by Tahir Ibrahimov (10736@holbertonstudents.com)
  *[[]]
  *[[]]
