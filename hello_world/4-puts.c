@@ -1,20 +1,11 @@
-/**
- *4-puts.c: A program that prints a string using the puts function
- *Description: This file prints a phrase about programming
- *Author: Tahir Ibrahimov
- *Date: February 27, 2025
- */
 #include <stdio.h>
 /**
- *main: prints a quote about programming using puts command
- *function: uses puts to print a quote about programming
- *Description: This function prints a string
- *"Programming is like building a multilingual puzzle" to
- *the standard output using the puts function.
- *Return: Always 0 (Success)
-*/
+ * main - Prints a quote about programming
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle\"");
+	return (0);
 }
